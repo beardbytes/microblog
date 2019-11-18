@@ -1,2 +1,2 @@
 # microblog
-Simple implementations using flask
+A microblogging web application written in Python and Flask
